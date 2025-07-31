@@ -107,11 +107,14 @@ I then went to the user prompt and chose yes so I can see the process of getting
 Once I chose yes, my VM immediately went offline. When this happened for the first time, I could not figure out why my VM wasn’t connecting to the internet and couldn’t finish my project. I spent hours researching “Windows 10 VM not connecting to the internet all of a sudden” trying to see what was wrong and I did a bunch of troubleshooting. It wasn’t until the next day and doing the project again that I realized what happened. I actually did the project and tested it on the same machine which was the VM. So, once I isolated it, I didn’t have any internet access. To get the VM back online, I had to login into my LimaCharlie account again on my host machine, go to the sensor and rejoin the VM back to the network. After doing that, I refreshed my VM and everything loaded perfectly. I couldn’t believe it LOL.
 
 (VM)
- <img width="808" height="450" alt="image" src="https://github.com/user-attachments/assets/46c8b690-969b-42c0-9825-f8a7aa2ba0de" />
+
+<img width="808" height="450" alt="image" src="https://github.com/user-attachments/assets/46c8b690-969b-42c0-9825-f8a7aa2ba0de" />
 
 
 (Host Machine)
- <img width="827" height="318" alt="image" src="https://github.com/user-attachments/assets/bae1fe7d-855c-48a6-b355-66facfa6e006" />
+ 
+ 
+<img width="827" height="318" alt="image" src="https://github.com/user-attachments/assets/bae1fe7d-855c-48a6-b355-66facfa6e006" />
 
 
 But once I got all that sorted out, I now understood what happened and can move on. Once Yes is selected in the user prompt, the machine gets isolated, and I automated a message in Tines to alert my Slack inbox about the isolation.
