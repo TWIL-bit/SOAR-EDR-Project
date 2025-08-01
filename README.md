@@ -11,7 +11,8 @@ Today I completed a SOAR / EDR project. This is my first time getting direct exp
 - <b>Virtual Box</b>
 - <b>Lima Charlie</b>
 - <b>Slack</b> 
-- <b>Tines</b> 
+- <b>Tines</b>
+- <b>Windows Powershell</b>
 
 
 <h2>Environments Used </h2>
