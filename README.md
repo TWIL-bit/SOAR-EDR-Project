@@ -12,7 +12,7 @@ Today I completed a SOAR / EDR project. This is my first time getting direct exp
 - <b>Lima Charlie</b>
 - <b>Slack</b> 
 - <b>Tines</b>
-- <b>Windows Powershell</b>
+- <b>Windows PowerShell</b>
 
 
 <h2>Environments Used </h2>
