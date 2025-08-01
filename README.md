@@ -1,4 +1,4 @@
-<h1>SOAR / EDR with Automation: Detecting Malware & Automating Alerts for Reveiw</h1>
+<h1>SOAR / EDR with Automation: Detecting Malware & Automating Alerts for Review</h1>
 
 
 <h2>Description</h2>
